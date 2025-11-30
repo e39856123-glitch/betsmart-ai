@@ -1,0 +1,5 @@
+{
+  "name": "BetSmart AI OS",
+  "description": "Professional sports betting analysis operating system powered by Gemini AI, featuring EV calculation, Kelly criterion management, and market scanning.",
+  "requestFramePermissions": []
+}
