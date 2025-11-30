@@ -190,7 +190,7 @@ export const KellyCalculator = ({ bankroll, currency, riskProfile, data }: { ban
             </div>
             {percent > 5 && (
                 <div className="mt-2 text-[10px] text-yellow-400 bg-yellow-900/20 p-1 rounded text-center border border-yellow-700/30">
-                    <i className="fas fa-exclamation-triangle mr-1"></i> Alto riesgo (>5%). Considera reducir stake.
+                    <i className="fas fa-exclamation-triangle mr-1"></i> Alto riesgo (mayor al 5%). Considera reducir stake.
                 </div>
             )}
         </div>
